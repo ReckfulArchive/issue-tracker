@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-** Description **
+**Description**
 
 Describe the data that needs to be archived.
 
-** Download links **
+**Download links**
 
 Where from or how can we download the data?
 
